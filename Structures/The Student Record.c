@@ -23,3 +23,9 @@ int main() {
 
     return 0;
 }
+
+//Output:
+--- Student Record ---
+Name   : Alex
+Roll No: 101
+Marks  : 88.50
